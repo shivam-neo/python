@@ -1,30 +1,10 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <hudson.model.Queue_-State>
-  <items>
-    <hudson.model.Queue_-WaitingItem>
-      <actions>
-        <hudson.model.CauseAction>
-          <causeBag class="linked-hash-map">
-            <entry>
-              <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
-              <int>1</int>
-            </entry>
-          </causeBag>
-        </hudson.model.CauseAction>
-      </actions>
-      <id>10</id>
-      <task class="hudson.model.FreeStyleProject">ayush</task>
-      <inQueueSince>1761208860723</inQueueSince>
-      <timestamp>
-        <time>1761208860723</time>
-        <timezone>Etc/UTC</timezone>
-      </timestamp>
-    </hudson.model.Queue_-WaitingItem>
-  </items>
+  <items/>
   <properties>
     <entry>
       <string>jenkins.model.queue.QueueIdStrategy$DefaultStrategy</string>
-      <long>10</long>
+      <long>11</long>
     </entry>
   </properties>
 </hudson.model.Queue_-State>
