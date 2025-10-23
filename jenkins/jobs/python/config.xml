@@ -31,10 +31,10 @@
   </triggers>
   <concurrentBuild>false</concurrentBuild>
   <builders>
-    <hudson.tasks.BatchFile>
+    <hudson.tasks.Shell>
       <command>python3 xyz.py</command>
       <configuredLocalRules/>
-    </hudson.tasks.BatchFile>
+    </hudson.tasks.Shell>
   </builders>
   <publishers/>
   <buildWrappers/>
